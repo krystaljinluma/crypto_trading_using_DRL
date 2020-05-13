@@ -1,3 +1,5 @@
+Cryptocurrency Trading with Deep Reinforcement Learning
+
 Trading is a broad term and covers a multitude of financial markets, such as stock markets and
 foreign exchange. Cryptocurrency trading - in simple terms buying and selling cryptocurrency, adds
 a new dimension to currency trading regime with its dynamic force and volatility. Bitcoin as the
