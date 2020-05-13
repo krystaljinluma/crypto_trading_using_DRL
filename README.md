@@ -1,5 +1,4 @@
 # Cryptocurrency Trading with Deep Reinforcement Learning
-Author: Haoqi Zhao, Krystal Jinlu Ma, Xingdu Qiao, Aayush Dua
 
 Trading is a broad term and covers a multitude of financial markets, such as stock markets and
 foreign exchange. Cryptocurrency trading - in simple terms buying and selling cryptocurrency, adds
